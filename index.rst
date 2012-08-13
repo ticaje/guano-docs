@@ -1,4 +1,4 @@
-Tico Symfony2 Documentation
+Documentación proyecto Guano, Bienvenido
 ======================
 
 Quick Tour
