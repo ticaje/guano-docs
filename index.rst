@@ -1,4 +1,4 @@
-Symfony2 Documentation
+Tico Symfony2 Documentation
 ======================
 
 Quick Tour
